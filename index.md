@@ -25,7 +25,7 @@ Les activités présentées sur ce site sont destinées à des **élèves de l'e
 
 # Première activité 
 
-**Objectif de l'activité** 
+**Objectif de l'activité:** 
 Cette activité a pour objectif de vous permettre de mémoriser et de réutiliser le vocabulaire lié à l'informatique.
 Vous devrez être capables de reconnaître les différents termes et de les associer à leurs caractéristiques, tout en utilisant des indices suffisamment précis pour être compris par les autres joueurs.
 
