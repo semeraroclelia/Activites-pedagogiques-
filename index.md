@@ -1,10 +1,10 @@
-<div align="center"> 
+
 
 # ACTIVITES PEDAGOGIQUES 
 
 ## Mathématiques et numérique 
 
-<br> 
+
 
 ### Didactique du numérique 
 
@@ -12,7 +12,7 @@
 
 Master en enseignement - Mathématiques 
 
-<br> 
+
 
 
 ## Bienvenue ! 
