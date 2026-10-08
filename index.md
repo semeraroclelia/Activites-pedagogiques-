@@ -14,7 +14,6 @@ Master en enseignement - Mathématiques
 
 <br> 
 
----
 
 ## Bienvenue ! 
 
